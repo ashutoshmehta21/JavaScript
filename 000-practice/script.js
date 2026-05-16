@@ -303,4 +303,4 @@ const strOne = 'Hello, I am Ashutosh Mehta    ';
 // console.log(strOne.trim());
 // console.log(strOne.replace('Ashutosh', 'Jayant'));
 // console.log(strOne.includes('Hello'));
-// console.log(strOne.split(''));
+console.log(strOne.split(''));
