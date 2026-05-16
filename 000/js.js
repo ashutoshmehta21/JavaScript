@@ -255,15 +255,52 @@
 
 // console.log(x);
 
-let x = 10;
-x = 10 == '10';
-x = 10 === '10';
-x = 10 === 10;
-x = 10 !== '10';
-x = 10 !== 10;
-x = 10 > 20;
-x = 10 < 20;
-x = 10 >= 20;
-x = 10 <= 20;
+// let x = 10;
+// x = 10 == '10';
+// x = 10 === '10';
+// x = 10 === 10;
+// x = 10 !== '10';
+// x = 10 !== 10;
+// x = 10 > 20;
+// x = 10 < 20;
+// x = 10 >= 20;
+// x = 10 <= 20;
 
-console.log(x);
+// console.log(x);
+
+// let x;
+// x = 5 + '5';
+// x = 5 - '5';
+// x = 5 * '5';
+// x = 5 ** '5';
+// x = 5 / '5';
+// x = 5 % '5';
+// x = 5 + null;
+// x = 5 + Number(null);
+// x = 5 + Number(true);
+// x = 5 + Number(false);
+// x = 5 + true;
+// x = 5 + false;
+// x = 5 + undefined;
+// x = '5' + undefined;
+
+// console.log(x, typeof x);
+
+// const strOne = new String('Ashutosh');
+// console.log(strOne.valueOf());
+// console.log(strOne, typeof strOne);
+
+const strOne = 'Hello, I am Ashutosh Mehta    ';
+// console.log(strOne.length);
+// console.log(strOne.toLocaleUpperCase());
+// console.log(strOne.toLocaleLowerCase());
+// console.log(strOne.charAt(0));
+// console.log(strOne.indexOf('a'));
+// console.log(strOne.substring(0, 10));
+// console.log(strOne.substring(-15));
+// console.log(strOne.slice(-5));
+// console.log(strOne.slice(0, -5));
+// console.log(strOne.trim());
+// console.log(strOne.replace('Ashutosh', 'Jayant'));
+// console.log(strOne.includes('Hello'));
+// console.log(strOne.split(''));
