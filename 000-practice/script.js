@@ -290,7 +290,7 @@
 // console.log(strOne.valueOf());
 // console.log(strOne, typeof strOne);
 
-const strOne = 'Hello, I am Ashutosh Mehta    ';
+// const strOne = 'Hello, I am Ashutosh Mehta    ';
 // console.log(strOne.length);
 // console.log(strOne.toLocaleUpperCase());
 // console.log(strOne.toLocaleLowerCase());
@@ -303,4 +303,63 @@ const strOne = 'Hello, I am Ashutosh Mehta    ';
 // console.log(strOne.trim());
 // console.log(strOne.replace('Ashutosh', 'Jayant'));
 // console.log(strOne.includes('Hello'));
-console.log(strOne.split(''));
+// console.log(strOne.split(''));
+
+// const num = new Number(5);
+// console.log(num, typeof num);
+
+// let num = 55555;
+// let str = num.toString();
+// let str = num.toString().length;
+// let str = num.toPrecision(3);
+// let str = num.toExponential(2);
+// let str = num.toLocaleString();
+// let str = num.valueOf();
+// let str = Number.MAX_VALUE;
+// let str = Number.MIN_VALUE;
+// console.log(str, typeof str);
+
+// console.log(typeof Math);
+// console.log(Math);
+
+// let x = Math.sqrt(9);
+// let x = Math.abs(-9);
+// let x = Math.round(9.6);
+// let x = Math.round(9.4);
+// let x = Math.ceil(9.4);
+// let x = Math.floor(9.6);
+// let x = Math.pow(2, 4);
+// let x = Math.max(11, 9, 4, 5);
+// let x = Math.min(11, 9, 4, 5);
+
+// let x = Math.round(Math.random() * 10);
+// console.log(x);
+
+// const date = new Date();
+// console.log(date, typeof date);
+
+// const date = new Date();
+// console.log(date.toLocaleString());
+
+// const date = new Date('2024, 11, 12');
+// const date = new Date(2024, 12, 7, 10, 15, 45);
+
+// const date = new Date('2021, 11, 12, 10:30:45');
+// console.log(date);
+
+// console.log(
+//   date.toLocaleTimeString('en-US', {
+//     hour: '2-digit',
+//     minute: '2-digit',
+//     hours12: true,
+//   }),
+// );
+
+// const date = new Date('2021-07-10T12:30:45');
+// const date = new Date('2021-07-10, 12:30:45');
+// const date = new Date('2021-07-10');
+// const date = new Date();
+// const date = new Date();
+// console.log(Date.now());
+// console.log(date.getTime());
+// console.log(Date.now() / 1000);
